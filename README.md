@@ -1,2 +1,14 @@
-# powerbi-blinkit-dashboard
-Blinkit Sales Analysis Dashboard created using Power BI and Excel.
+# Blinkit Power BI Dashboard
+
+## Project Overview
+This project analyzes Blinkit sales data using Power BI.
+
+## Tools Used
+- Power BI
+- Excel
+
+## Features
+- Sales Analysis
+- KPI Dashboard
+- Category Wise Analysis
+- Interactive Visualizations
